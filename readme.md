@@ -1,2 +1,2 @@
 # JumpingGame (Beta)
-[Playing]()
+[Playing](https://yaosipovpavel.github.io/DoubleJumpGame/)
