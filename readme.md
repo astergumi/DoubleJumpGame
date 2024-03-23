@@ -1,2 +1,2 @@
 # JumpingGame (Beta)
-[Playing](https://yaosipovpavel.github.io/DoubleJumpGame/)
+[Playing](https://astergumi.github.io/DoubleJumpGame/)
